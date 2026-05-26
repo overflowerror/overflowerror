@@ -1,12 +1,16 @@
 ### Hi there :wave:
 
-My name is Sigma and I am a software engineer from Germany.
+My name is Sigma, and I am a software engineer from Germany.
 
-When I'm not working on bigger (serious) projects I like doing stupid stuff in languages that are not meant to do any of that - it's a nice challenge. :yum:
+When I'm not working on bigger (serious) projects, I like doing stupid stuff in languages that are not meant to do any of that - it's a nice challenge. :yum:
 
-Professionally, I mostly work with Java, Python, JavaScript, Go, ... that kind of stuff. In my free time, I also write a lot C and PHP (I have this really odd love-hate relationship with PHP - I even wrote a [blog post](https://blog.sigma-star.io/2022/11/php-sucks/) about it). Recently, I've been looking into Gleam - looks pretty interesting sofar.
+Professionally, I mostly work with Java, Python, JavaScript, Go, ... that kind of stuff. In my spare time, I also write a lot of C and PHP (I have this really odd love-hate relationship with PHP - I even wrote a [blog post](https://blog.sigma-star.io/2022/11/php-sucks/) about it). Recently, I've been looking into Gleam - looks pretty interesting so far.
 
 Contributions to my projects are always welcome. :smile:
 
 ![overview](https://github.com/sigmasternchen/github-stats/blob/generated/overview.svg)
 ![languages](https://github.com/sigmasternchen/github-stats/blob/generated/languages.svg)
+
+Oh, and Google keeps getting this wrong: I'm a girl! :woman_technologist: My username is a math joke - not internet slang. :sweat_smile:
+
+("Sigma Sternchen" translates to "sigma star": Σ* is the Kleene closure of an alphabet - the set of all possible words. And -chen denotes the German diminutive form. I think it's a cute and nerdy joke. ^^)
